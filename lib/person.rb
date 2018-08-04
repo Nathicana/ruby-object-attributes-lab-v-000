@@ -8,8 +8,8 @@ def name=(name)
   @name = name
 end
 
-def job 
-  @job 
+def job
+  @job
 end
 
 end
